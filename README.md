@@ -116,3 +116,14 @@ The following endpoints were tested successfully and returned the expected respo
 - Health Check
 
 Successful API requests returned HTTP status 200 OK.
+
+## Deployment
+
+The backend is deployed online using Render.
+
+Base URL:
+https://property-maintenance-backend.onrender.com
+
+CORS is enabled to allow the frontend application to communicate with the backend APIs.
+
+The deployed backend was tested successfully and is connected to MongoDB Atlas.
